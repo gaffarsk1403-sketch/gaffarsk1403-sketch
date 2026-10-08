@@ -12,22 +12,25 @@ I build enterprise applications and AI-enabled software with a focus on clean ar
 - **AI/LLM:** OpenAI APIs, Retrieval-Augmented Generation, Prompt Design, AI-Assisted Development
 - **Engineering:** Git, CI/CD, Testing, Code Reviews, Architecture, Agile
 
-## Featured Project
+## Featured Projects
+
+### [.NET AI Assistant](https://github.com/gaffarsk1403-sketch/dotnet-ai-assistant)
+
+A full-stack .NET + React project that combines enterprise API design with grounded AI/LLM integration.
+
+**Highlights:** ASP.NET Core, C#, React, TypeScript, OpenAI integration, REST APIs, xUnit, Docker, GitHub Actions, Azure-ready architecture.
 
 ### [AI Knowledge Assistant](https://github.com/gaffarsk1403-sketch/ai-knowledge-assistant)
 
-An end-to-end AI/LLM portfolio project that demonstrates grounded question answering over an internal knowledge base.
+An end-to-end AI/LLM project that demonstrates grounded question answering over an internal knowledge base.
 
-It includes:
+**Highlights:** FastAPI, retrieval, LLM orchestration, source-aware responses, request validation, automated tests, and architecture documentation.
 
-- FastAPI backend
-- LLM integration
-- Retrieval and grounded context
-- Source-aware responses
-- API request validation
-- Automated tests
-- Architecture documentation
-- Environment and dependency setup
+### [AI Support Summarizer](https://github.com/gaffarsk1403-sketch/ai-support-summarizer)
+
+A full-stack AI workflow that turns customer support content into concise internal summaries and recommended next actions.
+
+**Highlights:** React, TypeScript, FastAPI, prompt orchestration, OpenAI integration, validation, testing, Docker, and CI.
 
 ## What I Focus On
 
